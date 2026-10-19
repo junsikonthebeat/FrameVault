@@ -1,0 +1,12 @@
+.vs/
+.vscode/
+**/bin/
+**/obj/
+dist/
+.codex/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+settings.protected
